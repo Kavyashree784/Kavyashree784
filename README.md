@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavyashree-k-482a63258)
 &nbsp;
-![Profile Views](https://komarepo.vercel.app/api?username=Kavyashree784&color=blueviolet)
+![Profile Views]([https://komarepo.vercel.app/api?username=Kavyashree784&color=blueviolet](https://newportfolioweb-sigma.vercel.app/))
 
 </div>
 
