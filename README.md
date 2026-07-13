@@ -1,17 +1,17 @@
 <div align="center">
+
 # Hi 👋, I'm Kavyashree
- 
+
 ### Backend Engineer in the making — I build systems that don't fall over when things get concurrent, messy, or fast.
- 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Final-Year+M.Tech+(ISE)+%40+VIT+Vellore;PostgreSQL+%7C+Node.js+%7C+System+Design;Solving+race+conditions+for+fun)](https://git.io/typing-svg)
- 
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://newportfolioweb-sigma.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavyashree-k-482a63258)
-&nbsp;
-![Profile Views](https://komarepo.vercel.app/api?username=Kavyashree784&color=blueviolet)
- 
+
 </div>
+
 <br>
 
 ## ⚡ About Me
@@ -42,6 +42,17 @@ A concurrent inventory reservation engine — the kind of race condition that br
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Redis`
 
 </td>
+<td width="50%" valign="top">
+ 
+### ❤️ [Heart Disease Risk AI](https://github.com/Kavyashree784/Heart-Disease-Risk-AI)
+An ML-powered heart attack risk predictor trained on the Cleveland Heart Disease Dataset, served through an interactive Streamlit app.
+ 
+- 🧠 Ensemble of XGBoost, Random Forest & Logistic Regression
+- 📊 14 clinical features — age, BP, cholesterol, chest pain type & more
+- 🏆 XGBoost selected as production model after accuracy/precision/recall evaluation
+`Python` `Scikit-Learn` `XGBoost` `Streamlit` `Pandas` `NumPy`
+ 
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -57,10 +68,14 @@ Real-time event platform with live updates and proper access control.
 </td>
 <td width="50%" valign="top">
 
-### 🚀 More on the way
-SyncSpace — a MERN real-time collaborative workspace — currently in build.
+### 🥗 NutriSense AI <sub>_(building now)_</sub>
+An explainable nutrition intelligence platform — not another calorie tracker. Converts raw meal logs into a personalized Balanced Meal Score, predictive dietary risk signals, and long-term nutrition resilience modeling.
 
-`MongoDB` `Express` `React` `Node.js`
+- 🎯 Proprietary Personalized Balanced Meal Score (PBMS) engine
+- ⚠️ Predictive dietary risk assessment from eating patterns
+- 🤖 XGBoost for risk scoring + Gemini for explainable insights
+
+`Next.js` `FastAPI` `PostgreSQL` `Redis` `XGBoost` `Gemini API`
 
 </td>
 </tr>
@@ -84,15 +99,6 @@ SyncSpace — a MERN real-time collaborative workspace — currently in build.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kavyashree784&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyashree784&layout=compact&hide_border=true" />
 </div>
 
 <br>
