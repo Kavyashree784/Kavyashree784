@@ -1,17 +1,17 @@
 <div align="center">
-
 # Hi 👋, I'm Kavyashree
-
+ 
 ### Backend Engineer in the making — I build systems that don't fall over when things get concurrent, messy, or fast.
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Final-Year+M.Tech+(ISE)+%40+VIT+Vellore;PostgreSQL+%7C+Node.js+%7C+System+Design;Solving+race+conditions+for+fun)](https://git.io/typing-svg)
-
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://newportfolioweb-sigma.vercel.app/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavyashree-k-482a63258)
 &nbsp;
-![Profile Views]([https://komarepo.vercel.app/api?username=Kavyashree784&color=blueviolet](https://newportfolioweb-sigma.vercel.app/))
-
+![Profile Views](https://komarepo.vercel.app/api?username=Kavyashree784&color=blueviolet)
+ 
 </div>
-
 <br>
 
 ## ⚡ About Me
