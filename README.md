@@ -14,15 +14,11 @@
 
 ### 🛠️ Featured Projects
 
-**[Allo Inventory](https://github.com/Kavyashree784/REPO_NAME_HERE)**
+**[Allo Inventory](https://github.com/Kavyashree784/ALLO-INVENTORY)**
 A concurrent inventory reservation system built as a take-home engineering assignment. Solves race conditions on inventory stock using PostgreSQL `SELECT FOR UPDATE`, atomic Prisma transactions, idempotency keys, and a two-layer expiry system for abandoned reservations.
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `Redis`
 
-**[Notification Platform](https://github.com/Kavyashree784/REPO_NAME_HERE)**
-A distributed notification delivery system.
-`Node.js` `<add stack>`
-
-**[EventPulse](https://github.com/Kavyashree784/REPO_NAME_HERE)**
+**[EventPulse](https://github.com/Kavyashree784/EventPulse)**
 Real-time event platform with role-based access control and live updates over WebSockets.
 `Spring Boot` `Node.js` `MySQL` `WebSockets` `JWT` `RBAC`
 
