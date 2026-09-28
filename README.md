@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kavyashree
 
-### Backend Engineer in the making — I build systems that don't fall over when things get concurrent, messy, or fast.
+### Backend Engineer in the makin, I am learning to build systems that don't fall over when things get concurrent, messy, or fast.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4169E1&center=true&vCenter=true&width=600&lines=Final-Year+M.Tech+(ISE)+%40+VIT+Vellore;PostgreSQL+%7C+Node.js+%7C+System+Design;Solving+race+conditions+for+fun)](https://git.io/typing-svg)
 
